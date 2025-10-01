@@ -99,6 +99,7 @@ Data cleaning rules applied:
 → The business is UK-centric, gift-driven, and seasonal.
 
 **4. Customer Segmentation (RFM Analysis)**
+
 Using Recency, Frequency, and Monetary (RFM) segmentation:
 
 |         Customer Segmentation Graph        |
@@ -119,6 +120,7 @@ Using Recency, Frequency, and Monetary (RFM) segmentation:
 → The broad middle tier of customers is most critical, not just high-value champions.
 
 **5. Customer Retention (Cohort Analysis)**
+
 Cohorts were defined by first purchase month. Retention rates were calculated as the % of customers in a cohort making repeat purchases in subsequent months.
 
 |          Customer Retention Heatmap        |

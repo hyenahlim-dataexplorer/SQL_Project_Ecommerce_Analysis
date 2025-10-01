@@ -8,6 +8,7 @@ This project analyzes the Online Retail dataset (UCI Machine Learning Repository
 3. Apply RFM segmentation to classify customer behavior.
 4. Conduct cohort analysis to understand customer retention trends.
 
+→ SQL queries & results: [sql_ecommerce](/ecommerce_analysis)
 
 ## 🛠 Tools & Environment
 * **SQL**: PostgreSQL

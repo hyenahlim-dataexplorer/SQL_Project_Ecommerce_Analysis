@@ -132,14 +132,16 @@ Cohorts were defined by first purchase month. Retention rates were calculated as
 * Retention stabilizes at low single digits after Month 6.
 * Holiday cohorts (e.g., Nov-Dec) show weaker retention than organically acquired cohorts.
 
-Take the Jaunary 2011 cohort as an example:
-* Month 0: By definition, retention is 100% - all customers made at least one purchase in Jaunary.
-* Month 1: Around 45% of those January customers made another purchase in February.
-* Month 2: Retention drops further, with only 30% of the original cohort making a purchase in March.
-* Month 4: By April, just 12% of that cohort is still active.
-* Month 6: By June, only 5% of the original Jaunary buyers are still making purchases.
-
-→ This pattern demonstrates the classic retention curve in e-commerce: a steep early decline followed by a long, low plateau. Most customers churn quickly, but a small subset remains active long term.
+→ Take the Jaunary 2011 cohort as an example:
+* Month 0 (Jan 2011): 100% (baseline, all customers are included).
+* Month 1 (Feb 2011): 22.1% of January customers returned.
+* Month 2 (Mar 2011): 26.6% returned (some bounce back after February).
+* Month 3 (Apr 2011): 23.0% returned.
+* Month 4 (May 2011): 32.1% returned (a noticeable spike, possibly seasonal promotion).
+* Month 5–7: Retention fluctuates between ~24% and 30%.
+* Month 8 (Sep 2011): 32.6% — still relatively strong compared to other cohorts.
+* Month 9 (Oct 2011): 36.5% — another increase, possibly pre-holiday effect.
+* Month 11 (Dec 2011): 11.8% — a sharp drop, maybe because December buying was dominated by newer seasonal cohorts.
 
 ## 📈 Conclusion
 The analysis shows that while the business generated over £10M in revenue, a significant portion (16%) comes from transactions without identifiable customers, limiting insight into behavior. The revenue base is heavily UK-centric and seasonally concentrated around holiday peaks, with limited international penetration.
